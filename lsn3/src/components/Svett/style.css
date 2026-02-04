@@ -1,0 +1,21 @@
+.main_block {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+
+.left_block {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+
+.info_block {
+  width: 100px;
+  height: 100px;
+  background: #222222;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
